@@ -10,6 +10,8 @@ User types → timer starts
 If user types again → timer resets
 Function runs only after no activity for X ms
 📦 Example (Search Input)
+
+
 function debounce(fn, delay) {
   let timer;
   return function (...args) {
