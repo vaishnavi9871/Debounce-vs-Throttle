@@ -141,6 +141,8 @@ Execution	        	              At regular intervals
 Trigger	          	              Continuous actions
 API Calls	        	              Limits frequency
 Use Case	        	              Scroll, resize, drag
+
+
 🎯 Real-Life Analogy
 Debounce:
 Like waiting for someone to finish talking before replying.
