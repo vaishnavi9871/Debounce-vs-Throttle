@@ -130,17 +130,17 @@ But app processes scroll in controlled intervals
 ✔ Not overloaded
 🔥 Key Differences 
 Feature    	      Debounce 🧠	                     
-Execution	        After user stops	          
-Trigger	          Final action	              
-API Calls	        Minimizes calls heavily	    
-Use Case	        Search, input	              
+Execution	 --------       After user stops	          
+Trigger	 ---------         Final action	              
+API Calls	--------        Minimizes calls heavily	    
+Use Case  --------	        Search, input	              
 
 
 Feature    	                          Throttle ⚡
-Execution	        	              At regular intervals
-Trigger	          	              Continuous actions
-API Calls	        	              Limits frequency
-Use Case	        	              Scroll, resize, drag
+Execution	     --------   	              At regular intervals
+Trigger	       ---------   	              Continuous actions
+API Calls	     ----------   	              Limits frequency
+Use Case	      -----------  	              Scroll, resize, drag
 
 
 🎯 Real-Life Analogy
