@@ -129,11 +129,18 @@ But app processes scroll in controlled intervals
 ✔ That’s why it feels smooth
 ✔ Not overloaded
 🔥 Key Differences 
-Feature    	      Debounce 🧠	                     Throttle ⚡
-Execution	        After user stops	          At regular intervals
-Trigger	          Final action	              Continuous actions
-API Calls	        Minimizes calls heavily	    Limits frequency
-Use Case	        Search, input	              Scroll, resize, drag
+Feature    	      Debounce 🧠	                     
+Execution	        After user stops	          
+Trigger	          Final action	              
+API Calls	        Minimizes calls heavily	    
+Use Case	        Search, input	              
+
+
+Feature    	                          Throttle ⚡
+Execution	        	              At regular intervals
+Trigger	          	              Continuous actions
+API Calls	        	              Limits frequency
+Use Case	        	              Scroll, resize, drag
 🎯 Real-Life Analogy
 Debounce:
 Like waiting for someone to finish talking before replying.
